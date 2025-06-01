@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi there 👋
+<h3> About me ---- </h1>
+<h5> I'm Elloise, a UFRN student</h5>
 <!--
 **Elloise867/Elloise867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
